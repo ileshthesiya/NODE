@@ -150,4 +150,3 @@
 -- where orderno in(select orderno from sales_order_details
 -- where (qtyordered * productrate)>=10000));
 
-
