@@ -33,9 +33,9 @@
 -- INSERT into products values(10, 'DVD burner', 180,2);
 
 
-select * from manufacturers;
+-- select * from manufacturers;
 
-select * from products;
+-- select * from products;
 -- ======================================================================
 -- Inner join
 
